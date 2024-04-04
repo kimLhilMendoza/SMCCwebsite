@@ -1,0 +1,17 @@
+body{
+    margin: auto;
+    background-image: url(smcc.png); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: yellow;
+    text-shadow: 2px 2px 4px black;
+ 
+}
+
+p{
+    color: black;
+ }
